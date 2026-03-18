@@ -1,3 +1,10 @@
+**Description**: Wealth-making Talent Test (搞钱天赋测试) - A 50-question personality assessment to discover ideal money-making strategies, featuring a clean, Jony Ive inspired UI and detailed result analysis.
+**Files**:
+- index.html: Main entry point containing the layout for intro, quiz, and result screens. Refs: TailwindCSS, Lucide, Chart.js.
+- style.css: Custom CSS for minimal aesthetics and smooth transitions.
+- main.js: Core logic handling state transitions, quiz progression, and result calculation.
+- questions.js: Contains the 50 multiple-choice questions data.
+- results.js: Contains the logic and data for rendering the detailed result analysis and recommendations.
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
